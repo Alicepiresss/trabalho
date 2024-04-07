@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<header>
+
+<h1>Fruteira</h1>
+<p> 
+<i>
+Seja bem-vindo! Conheça nossa fruteira! 
+Frutas de qualidade, ok? 
+Nos siga:
+Instagram:@fruteiradqualidade 
+Facebook: Fruteira de qualidade
+Contato: (53)9
+</i>
+</p>
+
+    <nav>
+        
+     <li>MENU</li>
+         <br>
+         <li>PRINCIPAL</li>
+             <br>
+         <li>PRODUTOS</li>
+        <br>
+         <li>SERVIÇOS</li>
+       <br>
+     <li>SOBRE</li>
+    </nav>
+<main> 
+<caption>
+    <b> Lucro do mês</b>
+</caption>
+  <style>
+    table,th,td {border: 2px solid black;}
+    </style>
+
+    <table>
+    
+        <thead> 
+          <tbody> 
+        <tr>
+        <td>Mês</td>    
+        <td>frutas</td>
+        </tr>
+        <tr>
+        <td>  </td>
+        <td>Banana</td>
+        <td> Maça</td>
+        </tr>
+        <td>Janeiro</td>
+        <td>100</td>
+        <td>50</td>
+        </tr>
+        <tr>
+        <td> Fevereiro</td>
+        <td> 120</td>
+        <td> 100</td>
+        </tr>
+        <tr>
+         <td> Março</td>
+         <td> 120</td>
+         <td> 150</td>   
+        </tr>
+        <tr>
+         <td> Total</td>
+         <td>340</td>
+         <td>300</td>
+        </tr>
+        </table>
+      </tbody>
+    </thead>
+</main>  
+<a href="https://ifrs.edu.br/">
+
+<img src="shutterstock_252338818-1-920x535.jpg" alt="figura de frutas"
+ width="300" height="300"/>
+
+</a>
+
+<img src= "download (1).jpeg" alt="figurita de frutiss"
+width="300" height="300"/>
+<form>
+                <fieldset>
+                <legend>Dados:</legend>
+                <label for="n1">Nome:</label>
+                <input type="text" id="n1"><br>
+
+                <label for="s1">Senha:</label>
+                <input type="password" id="s1">
+                <br>
+                <label for="d1">Email:</label>
+                <input type="email" id="d1"><br>
+
+                <label for="d1">Telefone:</label>
+                <input type="tel" id="d1"><br>
+
+                <label for="d1">Data:</label>
+                <input type="date" id="d1"><br>
+
+                <input type = "submit" value = "enviar"><br>
+                </fieldset>
+            </form>
+
+<footer>  
+  R. Vice-Almirante Abreu, 737 - Centro, Rio Grande - RS, 96200-270 
+</footer>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/uWgW56qwbzI" title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture" allowfullscreen></iframe>
+</hearder>
